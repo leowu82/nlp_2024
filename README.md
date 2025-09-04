@@ -3,7 +3,7 @@
 This repository contains coursework and the final project for an NLP (Natural Language Processing) class at NYCU in 2024. The repo is organized into homework assignments (`hw1`–`hw4`) and a final project (`final`). Each segment explores different core concepts and practical applications in NLP using modern deep learning frameworks.
 
 
-## Homework Summaries
+## Homework Overview
 
 ### HW1: Word Embeddings & Data Preprocessing
 
