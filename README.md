@@ -1,6 +1,6 @@
-# NYCU NLP 2024
+# NTHU NLP 2024
 
-This repository contains coursework and the final project for an NLP (Natural Language Processing) class at NYCU in 2024. The repo is organized into homework assignments (`hw1`–`hw4`) and a final project (`final`). Each segment explores different core concepts and practical applications in NLP using modern deep learning frameworks.
+This repository contains coursework and the final project for an NLP (Natural Language Processing) class at NTHU in 2024. The repo is organized into homework assignments (`hw1`–`hw4`) and a final project (`final`). Each segment explores different core concepts and practical applications in NLP using modern deep learning frameworks.
 
 
 ## Homework Overview
