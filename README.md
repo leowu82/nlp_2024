@@ -2,7 +2,6 @@
 
 This repository contains coursework and the final project for an NLP (Natural Language Processing) class at NYCU in 2024. The repo is organized into homework assignments (`hw1`–`hw4`) and a final project (`final`). Each segment explores different core concepts and practical applications in NLP using modern deep learning frameworks.
 
----
 
 ## Homework Summaries
 
@@ -43,7 +42,6 @@ This repository contains coursework and the final project for an NLP (Natural La
   - Build custom prompts and pipelines for automated question answering over large corpora.
   - Integrate with HuggingFace and Ollama for model serving; experiment with local and cloud deployments.
 
----
 
 ## Final Project: Model Comparison for Prompt-Response Tasks
 
@@ -59,7 +57,6 @@ This repository contains coursework and the final project for an NLP (Natural La
     - Automated metrics reporting and softmax probability extraction.
     - Compare baseline and advanced models using reproducible pipelines.
 
----
 
 ## Structure
 
@@ -69,14 +66,7 @@ This repository contains coursework and the final project for an NLP (Natural La
 - `hw4/` — Retrieval-Augmented QA system.
 - `final/` — Final project code, including baseline and advanced model implementations.
 
----
 
 ## Tech Stack
 
 **Natural Language Processing (NLP), Deep Learning, Machine Learning, PyTorch, TensorFlow, LSTM, Transformers (BERT, DeBERTa), HuggingFace, Gensim, LangChain, Retrieval-Augmented Generation (RAG), Sequence-to-Sequence, Multi-task Learning, Embeddings, Word2Vec, Data Preprocessing, Model Evaluation, Jupyter Notebook, Colab, Pandas, NumPy, Scikit-learn, Faiss, Chroma, BM25, Automated QA, Text Classification, Sequence Modeling, Vector Databases, Prompt Engineering, Mixed Precision Training, Gradient Clipping, Teacher Forcing, Custom Dataset, DataLoader, Evaluation Metrics (Accuracy, F1, Spearman), CSV Data, Python**
-
----
-
-## Credits
-
-Created by leowu82 for NYCU NLP 2024.
