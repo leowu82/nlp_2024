@@ -1,0 +1,9 @@
+numpy
+pandas
+gensim
+tqdm
+matplotlib
+scikit-learn
+random
+multiprocessing
+collections

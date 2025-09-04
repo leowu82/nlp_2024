@@ -1,0 +1,11 @@
+transformers
+bs4
+nltk
+torch
+numpy
+rank_bm25
+langchain
+langchain-community
+sentence-transformers
+tqdm
+python-dotenv

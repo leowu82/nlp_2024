@@ -1,0 +1,7 @@
+data*/
+nlp_wiki_texts/
+
+*.pth
+*.ckpt
+
+.env
